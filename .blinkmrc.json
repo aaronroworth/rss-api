@@ -1,0 +1,10 @@
+{
+  "server": {
+    "project": "bm-aaron-demo.api.blinkm.io",
+    "region": "ap-southeast-2",
+    "service": {
+      "bucket": "server-cli-service-bundles-multitenant",
+      "origin": "https://server-cli-service.blinkm.io"
+    }
+  }
+}
